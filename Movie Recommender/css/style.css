@@ -1,0 +1,122 @@
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90%;
+}
+.top {
+  position: fixed;
+  width: 100%;
+  z-index: 1
+}
+
+.top {
+  top: 0
+}
+
+.centera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.tag {
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center
+}
+
+.input {
+  padding: 8px;
+  display: block;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 50%
+}
+
+.border {
+  border: 1px solid #ccc!important
+}
+
+.padding-48 {
+  padding-top: 48px!important;
+  padding-bottom: 48px!important
+}
+
+.button {
+  border: none;
+  display: inline-block;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background-color: inherit;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap
+}
+
+.black, .hover-black:hover {
+  color: #fff!important;
+  background-color: #000!important
+}
+
+.opacity {
+  opacity: 0.60
+}
+
+.opacity-off, .hover-opacity-off:hover {
+  opacity: 1
+}
+
+.display-bottomleft {
+  position: absolute;
+  left: 0;
+  bottom: 0
+}
+
+.display-middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.padding {
+  padding: 8px 16px!important
+}
+
+.text-white, {
+  color: #fff!important
+}
+
+.light-grey {
+  color: #000!important;
+  background-color: #f1f1f1!important
+}
+
+.xlarge {
+  font-size: 24px!important
+}
+
+.xxlarge {
+  font-size: 36px!important
+}
+
+.jumbo {
+  font-size: 64px!important
+}
+
+.red, .hover-red:hover {
+  color: #fff!important;
+  background-color: #c05850!important
+}
+
+.container {
+  padding: 0.01em 16px
+}

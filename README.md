@@ -26,3 +26,7 @@ Landing Page
 
 Result
 ![Recommender result](https://github.com/Archit-Jain/Movie-Recommender/blob/main/recommender.PNG)
+
+
+User form and Footer(Developer sign)
+![Recommender result](https://github.com/Archit-Jain/Movie-Recommender/blob/main/footer.PNG)
